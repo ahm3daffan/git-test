@@ -1,2 +1,3 @@
 # git-test
-Testing Git Respository for TOP
+My first GitHub respo
+Hello Odin!
